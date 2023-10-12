@@ -5,8 +5,8 @@ conda create -n easylm python=3.10
 bash scripts/tpu_vm_setup.sh
 ```
 ### Downloading LLaMA-2-7b checkpoint and tokenizer:
-+ Checkpoint:
-+ Tokenizer:
++ Checkpoint: https://uofi.box.com/s/id1eylzpdu9mxxf2jz1q3rdlo4loxebu
++ Tokenizer: https://uofi.box.com/s/qrd4ro2engp6wf46wsaqc0f7lteyiooh
 ### Inference on LLaMA-2
 First, transform your test data in the same format as `example_data/test_examples.json`, and then run:
 ```
