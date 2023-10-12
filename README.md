@@ -2,7 +2,7 @@
 ### Installation
 ```
 conda create -n easylm python=3.10
-bash scripts/tpu_vm_setup.sh
+bash installation/tpu_vm_setup.sh
 ```
 ### Downloading LLaMA-2-7b checkpoint and tokenizer:
 + Checkpoint: https://uofi.box.com/s/id1eylzpdu9mxxf2jz1q3rdlo4loxebu
